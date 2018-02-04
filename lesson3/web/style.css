@@ -1,0 +1,36 @@
+body {
+    background-color: darkgray;
+}
+
+div {
+    background-color: gainsboro;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 25px;
+    margin: 30px auto;
+    padding: 10px 50px;
+    box-shadow: 1px 10px 10px black;
+}
+
+table {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px auto;
+    font-size: 25px;
+}
+
+.res {
+    /*border: none;*/
+    padding: 15px;
+    margin: 10px auto;
+    font-size: 20px;
+}
+
+#tbl {
+    text-align: center;
+}
+
+#title {font-size: 30px;}
+#car, #color {font-size: 20px;}
+#send, #ret {width: 300px;}
+h1 {color: red;}
